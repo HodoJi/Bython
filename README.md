@@ -3,6 +3,8 @@ Python with braces. Because Python is awesome, but whitespace is awful.
 
 Bython is a Python preprosessor which translates curly brackets into indentation.
 
+*(Info: This is copied repository from <a href="https://github.com/mathialo/bython">mathialo@github/bython</a>)*
+
 
 ## Content of README:
   * [Key features](#key-features)
