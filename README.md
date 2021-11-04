@@ -14,9 +14,9 @@ Bython is a Python preprosessor which translates curly brackets into indentation
 
 ## Key features
 
- * "Forget" about indentaition. You should still write beautiful code, but if you mess up with tabs/spaces, or copy one piece of code to another that uses a different indentation style, it won't break.
+ * "Forget" about indentation. You should still write beautiful code, but if you mess up with tabs/spaces, or copy one piece of code to another that uses a different indentation style, it won't break.
 
- * Uses Python for interpretation, that means that all of your existing modules, like NumPy and Matplotlib still works.
+ * Uses Python for interpretation, which means all of your existing modules, like NumPy and Matplotlib, still work.
 
 
 ## Code example
@@ -42,7 +42,7 @@ You can install Bython directly from PyPI using pip (with or without `sudo -H`, 
 $ sudo -H pip3 install bython
 ```
 
-If you for some reason want to install it from the git repository you can use `git clone` and do a local install instead:
+If for some reason you want to install it from the git repository, you can use `git clone` and do a local install instead:
 
 ```
 $ git clone https://github.com/mathialo/bython.git
@@ -79,7 +79,7 @@ to run `source.by` with arg1, arg2, ... as command line arguments. If you want m
 $ bython -h
 ```
 
-to print the built-in help page. You can also consult the man page by typing
+to print the built-in help page. You can also consult the manual page by typing
 
 ```
 $ man bython
